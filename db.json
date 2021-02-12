@@ -1,0 +1,394 @@
+{"wines": 
+[
+    {
+      "nazev": "Sylvánské zelené 0.5l",
+      "rocnik": 2014,
+      "privlastek": "VZH",
+      "cukry": "polosladké",
+      "objem": "0.5",
+      "cena": "230",
+      "id": 1,
+      "objednano": 0
+    },
+    {
+      "nazev": "Tramín červený 0.5l",
+      "rocnik": 2014,
+      "privlastek": "VZH",
+      "cukry": "polosladké",
+      "objem": "0.5",
+      "cena": "200",
+      "id": 2,
+      "objednano": 0
+    },
+    {
+      "nazev": "Sauvignon",
+      "rocnik": 2017,
+      "privlastek": "PS",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "170",
+      "id": 3,
+      "objednano": 0
+    },
+    {
+      "nazev": "Muškát moravský",
+      "rocnik": 2017,
+      "privlastek": "PS",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "150",
+      "id": 4,
+      "objednano": 0
+    },
+    {
+      "nazev": "Rulandské bílé",
+      "rocnik": 2017,
+      "privlastek": "PS",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "170",
+      "id": 5,
+      "objednano": 0
+    },
+    {
+      "nazev": "Tramín červený",
+      "rocnik": 2017,
+      "privlastek": "PS",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "200",
+      "id": 6,
+      "objednano": 0
+    },
+    {
+      "nazev": "Müller Thurgau",
+      "rocnik": 2017,
+      "privlastek": "PS",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "150",
+      "id": 7,
+      "objednano": 0
+    },
+    {
+      "nazev": "Müller Thurgau",
+      "rocnik": 2017,
+      "privlastek": "MZV",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "150",
+      "id": 8,
+      "objednano": 0
+    },
+    {
+      "nazev": "CuWée No.5",
+      "rocnik": 2017,
+      "privlastek": "MZV",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "170",
+      "id": 9,
+      "objednano": 0
+    },
+    {
+      "nazev": "Rulandské šedé",
+      "rocnik": 2017,
+      "privlastek": "PS",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "170",
+      "id": 10,
+      "objednano": 0
+    },
+    {
+      "nazev": "Sekt ANNA",
+      "rocnik": 2017,
+      "privlastek": "šumivé",
+      "cukry": "Demi",
+      "objem": "0.75",
+      "cena": "300",
+      "id": 11,
+      "objednano": 0
+    },
+    {
+      "nazev": "Sekt ANNA",
+      "rocnik": 2017,
+      "privlastek": "šumivé",
+      "cukry": "Brut",
+      "objem": "0,75",
+      "cena": "300",
+      "id": 12,
+      "objednano": 0
+    },
+    {
+      "nazev": "Muškát moravský",
+      "rocnik": 2018,
+      "privlastek": "MZV 19,6°NM",
+      "cukry": "polosuché",
+      "objem": "0.75",
+      "cena": "150",
+      "id": 13,
+      "objednano": 0
+    },
+    {
+      "nazev": "Muškát moravský",
+      "rocnik": 2018,
+      "privlastek": "VZH",
+      "cukry": "polosuché",
+      "objem": "0.75",
+      "cena": "180",
+      "id": 14,
+      "objednano": 0
+    },
+    {
+      "nazev": "Aurelius",
+      "rocnik": 2018,
+      "privlastek": "PS",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "180",
+      "id": 15,
+      "objednano": 0
+    },
+    {
+      "nazev": "Ryzlink rýnský",
+      "rocnik": 2018,
+      "privlastek": "PS",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "240",
+      "id": 16,
+      "objednano": 0
+    },
+    {
+      "nazev": "Chardonnay",
+      "rocnik": 2018,
+      "privlastek": "PS",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "170",
+      "id": 17,
+      "objednano": 0
+    },
+    {
+      "nazev": "Chardonnay",
+      "rocnik": 2018,
+      "privlastek": "VZB",
+      "cukry": "polosladké",
+      "objem": "0.75",
+      "cena": "170",
+      "id": 18,
+      "objednano": 0
+    },
+    {
+      "nazev": "Rulandské bílé",
+      "rocnik": 2018,
+      "privlastek": "VZH",
+      "cukry": "polosladké",
+      "objem": "0.75",
+      "cena": "170",
+      "id": 19,
+      "objednano": 0
+    },
+    {
+      "nazev": "Rulandské šedé",
+      "rocnik": 2018,
+      "privlastek": "VZH",
+      "cukry": "polosuché",
+      "objem": "0.75",
+      "cena": "200",
+      "id": 20,
+      "objednano": 0
+    },
+    {
+      "nazev": "Tramín červený",
+      "rocnik": 2018,
+      "privlastek": "VZH",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "200",
+      "id": 21,
+      "objednano": 0
+    },
+    {
+      "nazev": "Cuvée NO.5",
+      "rocnik": 2018,
+      "privlastek": "MZV",
+      "cukry": "polosuché",
+      "objem": "0.75",
+      "cena": "250",
+      "id": 22,
+      "objednano": 0
+    },
+    {
+      "nazev": "Veltlínské zelené",
+      "rocnik": 2018,
+      "privlastek": "PS",
+      "cukry": "polosuché",
+      "objem": "0.75",
+      "cena": "180",
+      "id": 23,
+      "objednano": 0
+    },
+    {
+      "nazev": "Ryzlink vlašský",
+      "rocnik": 2018,
+      "privlastek": "VZH",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "220",
+      "id": 24,
+      "objednano": 0
+    },
+    {
+      "nazev": "Zweigeltrebe rosé",
+      "rocnik": 2018,
+      "privlastek": "PS",
+      "cukry": "polosuché",
+      "objem": "0.75",
+      "cena": "170",
+      "id": 25,
+      "objednano": 0
+    },
+    {
+      "nazev": "Frankovka rosé",
+      "rocnik": 2018,
+      "privlastek": "PS",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "150",
+      "id": 26,
+      "objednano": 0
+    },
+    {
+      "nazev": "Rulandské modré",
+      "rocnik": 2018,
+      "privlastek": "MZV 22,6°NM",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "200",
+      "id": 27,
+      "objednano": 0
+    },
+    {
+      "nazev": "CuWée No.5 bublaWée",
+      "rocnik": 2018,
+      "privlastek": "MZV",
+      "cukry": "polosuché",
+      "objem": "0.75",
+      "cena": "180",
+      "id": 28,
+      "objednano": 0
+    },
+    {
+      "nazev": "CuWée No.5 rosée bublaWée",
+      "rocnik": 2018,
+      "privlastek": "MZV",
+      "cukry": "polosuché",
+      "objem": "0.75",
+      "cena": "200",
+      "id": 29,
+      "objednano": 0
+    },
+    {
+      "nazev": "CuWée 333 (CSG+Mer)",
+      "rocnik": 2018,
+      "privlastek": "MZV",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "300",
+      "id": 30,
+      "objednano": 0
+    },
+    {
+      "nazev": "Ryzlink rýnský",
+      "rocnik": 2019,
+      "privlastek": "MZV 22,4°NM",
+      "cukry": "suché",
+      "objem": "0.75",
+      "cena": "180",
+      "id": 31,
+      "objednano": 0
+    },
+    {
+      "nazev": "Sylvánské zelené  ",
+      "rocnik": 2019,
+      "privlastek": "MZV 21,6°NM",
+      "cukry": "polosuché",
+      "objem": "0.75",
+      "cena": "150",
+      "id": 32,
+      "objednano": 0
+    },
+    {
+      "nazev": "Agni",
+      "rocnik": 2019,
+      "privlastek": "MZV 22,4°NM",
+      "cukry": "suché",
+      "objem": "0,75",
+      "cena": "220",
+      "id": 33,
+      "objednano": 0
+    },
+    {
+      "nazev": "Dunaj",
+      "rocnik": 2019,
+      "privlastek": "MZV 24,2°NM",
+      "cukry": "suché",
+      "objem": "0,75",
+      "cena": "220",
+      "id": 34,
+      "objednano": 0
+    },
+    {
+      "nazev": "Merlot",
+      "rocnik": 2019,
+      "privlastek": "MZV 21,0°NM",
+      "cukry": "suché",
+      "objem": "0,75",
+      "cena": "180",
+      "id": 35,
+      "objednano": 0
+    },
+    {
+      "nazev": "Cabernet Sauvignon",
+      "rocnik": 2019,
+      "privlastek": "MZV 23,0°NM",
+      "cukry": "suché",
+      "objem": "0,75",
+      "cena": "180",
+      "id": 36,
+      "objednano": 0
+    },
+    {
+      "nazev": "Dárkový poukaz",
+      "rocnik": 2020,
+      "privlastek": "",
+      "cukry": "",
+      "objem": "",
+      "cena": "500",
+      "id": 37,
+      "objednano": 0
+    },
+    {
+      "nazev": "Dárkový poukaz",
+      "rocnik": 2020,
+      "privlastek": "",
+      "cukry": "",
+      "objem": "",
+      "cena": "1000",
+      "id": 38,
+      "objednano": 0
+    },
+    {
+      "nazev": "Dárkový Poukaz",
+      "rocnik": 2020,
+      "privlastek": "",
+      "cukry": "",
+      "objem": "",
+      "cena": "2000",
+      "id": 39,
+      "objednano": 0
+    }
+   ]
+}
