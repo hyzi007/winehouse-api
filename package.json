@@ -1,0 +1,23 @@
+{
+  "name": "winehouse-api",
+  "version": "1.0.0",
+  "description": "My Winehouse api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyzi007/winehouse-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyzi007/winehouse-api/issues"
+  },
+  "homepage": "https://github.com/hyzi007/winehouse-api#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
